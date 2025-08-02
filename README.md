@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ayushi Singh</h1>
-<h3 align="center">- 🎓 Final-year B.Tech (CSE) student at BML Munjal University (2022–2026) - 🛠️ I specialize in building AI-powered tools, web applications, and scalable data pipelines - 🏆 Smart India Hackathon 2024 – 3rd Place Winner - 📈 Passionate about solving real-world problems through data-driven and user-centered design</h3>
+<h3 align="center">-  Final-year B.Tech (CSE) student at BML Munjal University (2022–2026) - 🛠 I specialize in building AI-powered tools, web applications, and scalable data pipelines -  Smart India Hackathon 2024 – 3rd Place Winner -  Passionate about solving real-world problems through data-driven and user-centered design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiayushihere&label=Profile%20views&color=0e75b6&style=flat" alt="hiayushihere" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiayushihere" alt="hiayushihere" /></a> </p>
 
-- 🔭 I’m currently working on **A full stack project**
+-  I’m currently working on **A full stack project**
 
-- 🌱 I’m currently learning **DSA , Devops, Computer Vision, Deep learning and Next.js**
+-  I’m currently learning **DSA , Devops, Computer Vision, Deep learning and Next.js**
 
-- 🤝 I’m looking for help with **devops**
+-  I’m looking for help with **devops**
 
-- 📫 How to reach me **ayushi87u@gmail.com**
+-  How to reach me **ayushi87u@gmail.com**
 
-- ⚡ Fun fact **I enjoy blending creativity with code—whether it's building AI tools or designing intuitive UIs, I love making things that feel human.**
+-  Fun fact **I enjoy blending creativity with code—whether it's building AI tools or designing intuitive UIs, I love making things that feel human.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
