@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayushi Singh</h1>
-<h3 align="center">-  Final-year B.Tech (CSE) student at BML Munjal University (2022–2026) - 🛠 I specialize in building AI-powered tools, web applications, and scalable data pipelines -  Smart India Hackathon 2024 – 3rd Place Winner -  Passionate about solving real-world problems through data-driven and user-centered design</h3>
+<h3 align="center">-  Final-year B.Tech (CSE) student at BML Munjal University (2022–2026) 
+  
+  - 🛠 I specialize in building AI-powered tools, web applications, and scalable data pipelines
+  
+  -  Smart India Hackathon 2024 – 3rd Place Winner
+    
+  -  Passionate about solving real-world problems through data-driven and user-centered design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiayushihere&label=Profile%20views&color=0e75b6&style=flat" alt="hiayushihere" /> </p>
 
