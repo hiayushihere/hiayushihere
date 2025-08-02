@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayushi Singh</h1>
-<h3 align="center">-  Final-year B.Tech (CSE) student at BML Munjal University (2022–2026) 
+<h3 align="center">
+  
+  -  Final-year B.Tech (CSE) student at BML Munjal University (2022–2026) 
   
   - 🛠 I specialize in building AI-powered tools, web applications, and scalable data pipelines
   
