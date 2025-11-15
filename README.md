@@ -9,9 +9,6 @@
     
   -  Passionate about solving real-world problems through data-driven and user-centered design</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiayushihere&label=Profile%20views&color=0e75b6&style=flat" alt="hiayushihere" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiayushihere" alt="hiayushihere" /></a> </p>
 
 -  I’m currently working on **A full stack project**
 
